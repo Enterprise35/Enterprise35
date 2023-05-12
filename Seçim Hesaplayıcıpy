@@ -19,7 +19,8 @@ while True:
         debuts[max_vote_party] = 0
 
     debuts[max_vote_party] += 1
-
+    if max(debuts.values()) == 10:
+        break
     if max_vote > 1:  
         party_dict[max_vote_party] //= 2
     else:
