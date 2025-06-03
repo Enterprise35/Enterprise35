@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enterprise35
+- 👋 Hi, I’m @Freyja_04
 - 👀 I’m interested in Artificial intelligence
 
 - 🌱 I’m currently learning python
